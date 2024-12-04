@@ -11,3 +11,4 @@ This is a repository which utilizes Vue.js and Typescript. It is created as a sc
 - Open your browser and navigate to `http://localhost:5173`
 
 ## AI Utilization
+- Jag använde AI för att hitta olika sorters gratis API, jag har använt AI för att skapa en bra fil struktur. Jag har också använt AI för att hjälpa till med errors såsom import fel eller syntax fel.
